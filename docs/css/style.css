@@ -268,11 +268,11 @@ ul, li {
   justify-content: space-between;
 }
 
-.card-wrapper::after{
+/* .card-wrapper::after{
   content: "";
   display: block;
   width: 32%;
-}
+} */
 
 /*--------------------------------
 　About
